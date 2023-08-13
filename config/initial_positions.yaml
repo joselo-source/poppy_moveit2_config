@@ -1,0 +1,9 @@
+# Default initial positions for poppy's ros2_control fake system
+
+initial_positions:
+  m1: 0
+  m2: 0
+  m3: 0
+  m4: 0
+  m5: 0
+  m6: 0
